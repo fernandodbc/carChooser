@@ -1,0 +1,4 @@
+services:
+#    fdbc_carchooser_front.example:
+#        class: Fdbc\Carchooser\FrontBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

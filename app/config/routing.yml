@@ -1,0 +1,4 @@
+fdbc_carchooser_front:
+    resource: "@FdbcCarchooserFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
